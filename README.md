@@ -18,7 +18,7 @@
   <a href="https://www.twitch.tv/scifiju" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="37" height="25" alt="twitch logo"  />
   </a>
-  <a href="https://is.gd/mw4NSG" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jude.demigod@gmail.com&su=ASSUNTO&body=MENSAGEM" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
   </a>
 </div>
