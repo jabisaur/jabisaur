@@ -19,13 +19,6 @@
 
 ---
 
-### 📊 Minhas Estatísticas do GitHub
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabisaur&layout=compact&langs_count=7&theme=dracula&v=1" alt="Estatísticas do GitHub de jabisaur" />
-</p>
-
----
-
 ### 📩 Vamos nos conectar?
 <p align="left">
   <a href="https://www.linkedin.com/in/juliana-gabinio" target="_blank">
